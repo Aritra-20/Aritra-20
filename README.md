@@ -20,12 +20,11 @@
 <br />
 
 A **Full-Stack Web Developer** 🚀
-
-<h1 align="center"> <img src="1.gif"  /> </h1>
    
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a Computer Science Engineering Undergrad(3rd year) student at Institute of Engineering & Management,Kolkata
+    <h1 align="right"> <img alt="GIF" img height="50" width="50" src="1.gif"  /> </h1>
 - 🌱 I’m currently trying to explore the world of coding and find my own home there.
 - 👯 I’m looking to collaborate with other developers on awesome new and innovative projects.
 - 🤔 My interest lies in front end creative web development, along with creating innovative AIs.

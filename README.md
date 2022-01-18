@@ -20,7 +20,7 @@
 <br />
 
 A **Full-Stack Web Developer** 🚀
-<h1 align="right"> <img alt="GIF" img height="300" width="200" src="1.gif"  /> </h1>
+<h1 align="center"> <img alt="GIF" img height="200" width="500" src="1.gif"  /> </h1>
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a Computer Science Engineering Undergrad(3rd year) student at Institute of Engineering & Management,Kolkata

@@ -21,7 +21,9 @@
 <br />
 
 ##  🔥 I'm a Full Stack Web developer!!! 🔥
+
 <h1 align="center"> <img alt="GIF" img height="200" width="300" src="1.gif"  /> </h1>
+
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a Computer Science Engineering Undergrad(3rd year) student at Institute of Engineering & Management,Kolkata

@@ -2,16 +2,16 @@
 <h3 align="right"> <img src="https://komarev.com/ghpvc/?username=Aritra-20&label=Stalker Alert: &color=blue&style=plastic" alt="Aritra-20" /> </h3>
 
 <a href="https://www.linkedin.com/in/aritrapal20/">
-  <img align="left" alt="Aritra's LinkedIn" width="24px" src="iconfinder_linkedin_circle_294706.png" />
+  <img align="left" alt="Aritra's LinkedIn" width="24px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
 </a>
 <a href="https://www.instagram.com/ar1tra__/">
-  <img align="left" alt="Aritra's Instagram" width="24px" src="iconfinder_instagram_1632517.png" />
+  <img align="left" alt="Aritra's Instagram" width="24px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
 </a>
 <a href="https://www.facebook.com/hangman3196">
-  <img align="left" alt="Aritra's Facebook" width="24px" src="iconfinder_social-facebook-2019-circle_4696483.png" />
+  <img align="left" alt="Aritra's Facebook" width="24px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />
 </a>
 <a href="https://twitter.com/Aritra3196">
-  <img align="left" alt="Aritra's Twitter" width="24px" src="iconfinder_twitter_circle_294709.png" />
+  <img align="left" alt="Aritra's Twitter" width="24px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />
 </a>
 <!-- <a href="https://leetcode.com/Aritra/">
   <img align="left" alt="Aritra's Twitter" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" />

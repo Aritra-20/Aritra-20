@@ -29,8 +29,8 @@ A **Full-Stack Web Developer** 🚀
 - 👯 I’m looking to collaborate with other developers on awesome new and innovative projects.
 - 🤔 My interest lies in front end creative web development, along with creating innovative AIs.
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Music is my thing; Comic Writer; Artist; Binge Watcher; Anti-Non-Creative; Ideas-Hub.
-- 💬 Ask me about anything, I love to answer!
+- ⚡ Fun fact: Music is my thing; Drawings; Artist; Web Series.
+- 💬 Ask me about anything, I love to answer! [here](https://github.com/Aritra-20/Aritra-20/issues)
 - 📫 Email me at [paritra2001@gmail.com](mailto:paritra2001@gmail.com).
 
 ** **

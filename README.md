@@ -21,6 +21,7 @@ I care about the step from data to decision: finding the signal in messy data an
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Pharma Sales & Rebate Analytics**](https://github.com/Aritra-20/product-portfolio/blob/main/procdna-rebate-case-study.md) | ProcDNA case, built in Excel. Territory sales, $7.25M in GPO and group-contract rebates, and profit from 10,900 invoice lines. Rebates eat about half of the $14.6M profit. | Excel · SUMIFS · INDEX/MATCH |
 | [**Healthcare Provider Fraud Detection**](https://github.com/Aritra-20/healthcare-fraud-analytics) | Turns 500K+ Medicare claims into provider-level features and flags fraudulent providers. The Random Forest reaches a **PR-AUC of 0.712**, about 7.7× better than chance. | Python · scikit-learn · Statsmodels · Tableau |
 | [**Patient Experience NLP**](https://github.com/Aritra-20/pharma-nlp-sentiment) | Reads 215K Drugs.com reviews to find the side effects behind bad ratings, and finds **35 "hidden" side-effect signals** in drugs that rate well. | Python · NLP · VADER · Pandas |
 | [**Drug Reviews ETL Pipeline**](https://github.com/Aritra-20/pharma-etl-pipeline-drug-reviews) | Models 161K Drugs.com reviews as a star schema in SQLite and answers business questions in SQL. | Python · SQL · SQLite |

@@ -4,11 +4,17 @@
 
 I care about the step from data to decision: finding the signal in messy data and turning it into something a product or business team can act on.
 
-⚡ **Currently:** PGPM at GLIM · building product analytics case studies · validating PMF and GTM for B2C AI EdTech products
+⚡ **Currently:** PGPM at GLIM · building AI agents with LLMs and RAG · validating PMF and GTM for B2C AI EdTech products
 
 🌐 **Portfolio:** [aritrapal.me](https://aritrapal.me) · 💼 **LinkedIn:** [aritrapal20](https://www.linkedin.com/in/aritrapal20/) · 📫 **Email:** [aritrapal20@gmail.com](mailto:aritrapal20@gmail.com)
 
 ---
+
+### 🤖 AI product work
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**BuyLead Copilot**](https://github.com/Aritra-20/buylead-copilot) | An AI agent that turns messy English/Hinglish B2B buyer inquiries ("helmat 200 pcs urjent delhi") into structured RFQs, matches suppliers with RAG and drafts quote requests. Guardrails against hallucination and prompt injection, a one-page PRD with trade-offs, and an eval harness on 60 hand-labelled cases. | Claude API · RAG · vector search · Python · Streamlit · Claude Code |
 
 ### 🧭 Product work
 
